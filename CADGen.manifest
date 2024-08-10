@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"a1d2891c-86b0-45ce-ba8e-53d58c050bd3",
+	"author":	"S Kartic",
+	"description":	{
+		"":	"Generates CAD models on prompts"
+	},
+	"version":	"0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
